@@ -5,7 +5,7 @@ Dataset：
 2.	COVID-19_Radiography_Dataset (source: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database?fbclid=IwAR2HhcrHDYBOpCKLRxzwl56bHE-iJ1fZY6UqxgaTuB0UdpLDX1wEIwOSQI8)
 
 
-MachineLearning program：
+Our Machine Learning Programs：
 1.	Symptom_predict.ipynb
 2.	X-ray_predict.ipynb
 
